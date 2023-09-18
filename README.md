@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Isimisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=isimisi)](https://github.com/isimisi)
+[![Isimisi's GitHub stats](https://lion-brother.vercel.app/api?username=isimisi)](https://github.com/isimisi)
