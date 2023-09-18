@@ -1,6 +1,7 @@
-### Hi ! ✋
+## Hi ! ✋
 
 I'm Isaac, a Full-Stack Developer from Copenhagen, Denmark
+
 
 
 <!--
@@ -18,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### ⚡️ My Github Stats
 [![Isimisi's GitHub stats](https://lion-brother.vercel.app/api?username=isimisi&show_icons=true&theme=tokyonight)](https://github.com/isimisi)
 <!-- [![Top Langs](https://lion-brother.vercel.app/api/top-langs/?username=isimisi&show_icons=true&theme=tokyonight)](https://github.com/isimisi) -->
