@@ -1,5 +1,7 @@
-### Hi 
-- Full-Stack Developer from Copenhagen
+### Hi ! ✋
+
+I'm Isaac, a Full-Stack Developer from Copenhagen, Denmark
+
 
 <!--
 **isimisi/isimisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
